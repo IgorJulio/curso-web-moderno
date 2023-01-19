@@ -9,3 +9,5 @@ console.log(quantidade);
 console.log(preco);
 console.log(imposto);
 console.log(precoFinal);
+
+// proxima aula 24. Trabalhando com Dados #02
