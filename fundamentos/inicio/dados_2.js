@@ -16,4 +16,4 @@ console.log("Produto: " + nome // Sempre que tem texto no meio usasse o silnal d
 );
 
 console.log(1 + 1); // Exemplo de soma
-console.log("1" + 1); // Exemplo de concatecação
+console.log("1" + 1); // Exemplo de concatecação 
