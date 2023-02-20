@@ -1,5 +1,13 @@
-const nome = 'Rebeca';
-const concatenacao = 'Óla ' + nome + '!';
+//const nome = 'Rebeca';
+//const concatenacaoa = "Olá uqwieheiuqwheiuqwy  " + nome + "  isaojd  " + nome + "   oiasudoiuasiodu !"
+//const concatenacaob = `Óla uqwieheiuqwheiuqwy  ${nome}  isaojd  ${nome}   oiasudoiuasiodu !`;
+
+//console.log(concatenacaoa)
+//console.log(concatenacaob)
+// Template é uma outra forma de concatenar de uma forma mais organizada.
+
+const nome = "Rebeca";
+const concatenacao = "óla " + nome + "!";
 const template = `
       Olá
       ${nome}!`;
