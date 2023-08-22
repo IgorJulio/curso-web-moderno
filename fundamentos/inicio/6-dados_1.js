@@ -1,4 +1,4 @@
-let nome = "Caneta"; 
+let nome = "Caneta"
 var quantidade = 10;
 var preco = 6.4;
 var imposto = 1.5;
@@ -9,5 +9,6 @@ console.log(quantidade);
 console.log(preco);
 console.log(imposto);
 console.log(precoFinal);
+
 
 // proxima aula 24. Trabalhando com Dados #02
